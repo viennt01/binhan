@@ -31,7 +31,7 @@ function App() {
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight;
     var image = new Image();
-    image.src = 'https://firebasestorage.googleapis.com/v0/b/swpt-1c7b5.appspot.com/o/emo3-e1512311113363-removebg-preview.png?alt=media&token=9de4a2db-09c6-4fa9-946f-3ace058e8917&_gl=1*1lg4omd*_ga*MTU4MzU4OTY5My4xNjk2NDk4OTEy*_ga_CW55HF8NVT*MTY5NzAxNDk4OC40LjEuMTY5NzAxNTAyMS4yNy4wLjA.';
+    image.src = 'https://i.pinimg.com/originals/90/2c/2b/902c2bbccb72ca76cf3bbe95741174e9.png';
     // Bạn có thể sao chép toàn bộ code JavaScript vào đây
     for (var i = 0; i < thingsCount; i++) {
       let opacity = Math.random() + 0.4;
